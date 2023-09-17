@@ -1,8 +1,39 @@
-# React + Vite
+# Shoetopia - Nike Inspired Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Shoetopia]()
 
-Currently, two official plugins are available:
+This project is a clone of the Nike website, created as part of a learning exercise to explore web development and design using Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can see a live demo of the website [here](link-to-your-live-demo).
+
+## Technologies Used
+
+- HTML5
+- CSS3 (via Tailwind CSS)
+- JavaScript
+
+## Features
+
+- Responsive design inspired by the Nike website.
+- Utilizes Tailwind CSS for efficient and rapid styling.
+- Intuitive navigation and product showcase.
+
+## How to Run
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine using:
+
+```bash
+git clone https://github.com/ShakthiW/shoetopia-website.git
